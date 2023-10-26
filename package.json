@@ -127,7 +127,7 @@
         "coverage": "nyc npm run test"
     },
     "dependencies": {
-        "dependency-cruiser": "^8.1.0",
+        "dependency-cruiser": "^15.0.0",
         "viz.js": "^2.1.2"
     },
     "devDependencies": {
